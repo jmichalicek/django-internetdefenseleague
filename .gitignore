@@ -1,0 +1,8 @@
+*~
+*.bak
+*.swp
+*.pyc
+django_internetdefenseleague.egg-info/*
+internetdefenseleague.egg-info
+dist/*
+build/*
