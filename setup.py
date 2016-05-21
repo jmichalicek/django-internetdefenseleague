@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 package_data = ['templates/internetdefenseleague/*.html']
 dependencies = []
 setup(name = "django-internetdefenseleague",
-      version = "0.0.1",
+      version = "0.0.2",
       description = "A django app to manage Internet Defense League javascript on sites",
       author = "Justin Michalicek",
       author_email = "jmichalicek@gmail.com",
